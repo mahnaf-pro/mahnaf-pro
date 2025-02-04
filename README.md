@@ -37,8 +37,8 @@ Professionally Passionate in <strong>UI-UX Design</strong> with Love for Tailwin
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 ## 🐈‍⬛ GitHub Stats 📊
 ![](https://github-readme-stats.vercel.app/api?username=mahnaf-pro&theme=dark&hide_border=true&include_all_commits=false&count_private=false)
-![](https://github-readme-streak-stats.herokuapp.com/?user=mahnaf-pro&theme=dark&hide_border=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mahnaf-pro&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-streak-stats.herokuapp.com/?user=mahnaf-pro&theme=dark&hide_border=true)
 
 ### 📄 Today's Quote 😎
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
